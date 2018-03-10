@@ -1,1 +1,1 @@
-# paprika-api
+paprika-api
